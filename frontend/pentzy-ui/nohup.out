@@ -1,0 +1,85 @@
+
+> pentzy-ui@0.0.0 dev
+> vite
+
+
+  VITE v7.3.0  ready in 1059 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+
+> pentzy-ui@0.0.0 dev
+> vite --host
+
+Port 5173 is in use, trying another one...
+
+  VITE v7.3.0  ready in 978 ms
+
+  ➜  Local:   http://localhost:5174/
+  ➜  Network: http://192.168.157.146:5174/
+  ➜  Network: http://172.18.0.1:5174/
+4:59:14 PM [vite] vite.config.js changed, restarting server...
+4:59:14 PM [vite] vite.config.js changed, restarting server...
+4:59:14 PM [vite] server restarted.
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: http://192.168.157.146:5173/
+  ➜  Network: http://172.18.0.1:5173/
+4:59:14 PM [vite] server restarted.
+
+> pentzy-ui@0.0.0 dev
+> vite
+
+Port 5173 is in use, trying another one...
+Port 5174 is in use, trying another one...
+
+  VITE v7.3.0  ready in 1208 ms
+
+  ➜  Local:   http://localhost:5175/
+  ➜  Network: http://192.168.157.146:5175/
+  ➜  Network: http://172.18.0.1:5175/
+5:01:50 PM [vite] (client) page reload src/main.jsx
+5:01:50 PM [vite] (client) page reload src/main.jsx
+5:01:51 PM [vite] (client) page reload src/main.jsx
+5:02:00 PM [vite] (client) page reload src/main.jsx
+5:02:00 PM [vite] (client) page reload src/main.jsx
+5:02:00 PM [vite] (client) page reload src/main.jsx
+5:06:33 PM [vite] (client) hmr update /src/App.jsx
+5:06:33 PM [vite] (client) hmr update /src/App.jsx
+5:06:33 PM [vite] (client) hmr update /src/App.jsx
+5:06:40 PM [vite] (client) page reload src/App.jsx
+5:06:40 PM [vite] (client) hmr update /src/App.jsx
+5:06:40 PM [vite] (client) page reload src/App.jsx
+5:06:42 PM [vite] (client) ✨ new dependencies optimized: react-router-dom, axios
+5:06:42 PM [vite] (client) ✨ optimized dependencies changed. reloading
+5:06:43 PM [vite] (client) ✨ new dependencies optimized: react-router-dom, axios
+5:06:43 PM [vite] (client) ✨ optimized dependencies changed. reloading
+5:06:49 PM [vite] (client) hmr update /src/App.jsx
+5:06:49 PM [vite] (client) page reload src/assets/react.svg
+5:06:49 PM [vite] (client) page reload src/assets/react.svg
+5:06:49 PM [vite] (client) hmr update /src/App.css
+5:06:49 PM [vite] (client) hmr update /src/App.css
+5:06:49 PM [vite] (client) hmr update /src/App.css
+5:07:33 PM [vite] (client) ✨ new dependencies optimized: react-router-dom, axios
+5:07:33 PM [vite] (client) ✨ optimized dependencies changed. reloading
+5:12:06 PM [vite] (client) hmr update /src/pages/Login.jsx
+5:12:06 PM [vite] (client) hmr update /src/pages/Login.jsx
+5:12:06 PM [vite] (client) hmr update /src/pages/Login.jsx
+5:14:39 PM [vite] (client) hmr update /src/pages/Login.jsx, /src/pages/Dashboard.jsx, /src/pages/Findings.jsx
+5:14:39 PM [vite] (client) hmr update /src/pages/Login.jsx, /src/pages/Dashboard.jsx, /src/pages/Findings.jsx
+5:14:39 PM [vite] (client) hmr update /src/pages/Login.jsx, /src/pages/Dashboard.jsx, /src/pages/Findings.jsx
+5:43:05 PM [vite] (client) hmr update /src/pages/Login.jsx, /src/pages/Dashboard.jsx, /src/pages/Findings.jsx
+5:43:05 PM [vite] (client) hmr update /src/pages/Login.jsx, /src/pages/Dashboard.jsx, /src/pages/Findings.jsx
+5:43:05 PM [vite] (client) hmr update /src/pages/Login.jsx, /src/pages/Dashboard.jsx, /src/pages/Findings.jsx
+5:43:48 PM [vite] .env changed, restarting server...
+5:43:48 PM [vite] .env changed, restarting server...
+5:43:48 PM [vite] .env changed, restarting server...
+5:43:48 PM [vite] server restarted.
+5:43:48 PM [vite] server restarted.
+5:43:48 PM [vite] server restarted.
+5:44:04 PM [vite] .env.local changed, restarting server...
+5:44:04 PM [vite] .env.local changed, restarting server...
+5:44:04 PM [vite] .env.local changed, restarting server...
+5:44:04 PM [vite] server restarted.
+5:44:04 PM [vite] server restarted.
+5:44:04 PM [vite] server restarted.
