@@ -4,3 +4,5 @@ sqlalchemy
 psycopg2-binary
 pydantic
 python-multipart
+python-jose[cryptography]
+passlib[bcrypt]
