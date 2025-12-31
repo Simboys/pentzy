@@ -13,3 +13,5 @@ class FindingOut(FindingCreate):
     class Config:
     	from_attributes = True
 
+class FindingUpdateStatus(BaseModel):
+    status: str
